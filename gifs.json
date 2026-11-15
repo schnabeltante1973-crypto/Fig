@@ -1,0 +1,32 @@
+{
+  "actions": {
+    "sit": {
+      "file": "gifs/sitzen.gif",
+      "caption": "Na gut. Ich setze mich. Meine Beine hatten ohnehin schon Beschwerde eingereicht."
+    },
+    "steh": {
+      "file": "gifs/stehen.gif",
+      "caption": "Ich stehe. Ein historischer Moment für meine zwei unterqualifizierten Beine."
+    },
+    "schlaf": {
+      "file": "gifs/schlafen.gif",
+      "caption": "Gute Nacht. Vielleicht träume ich von einer Existenz mit mehr Schalenwürde."
+    },
+    "wink": {
+      "file": "gifs/winken.gif",
+      "caption": "Hallo. Ja, ich bin's. Die Walnuss, die ihr alle nicht bestellt habt."
+    },
+    "tanz": {
+      "file": "gifs/tanzen.gif",
+      "caption": "Ich tanze. Bitte keine Videos davon. Meine Würde ist ohnehin nur theoretisch vorhanden."
+    },
+    "lach": {
+      "file": "gifs/lachen.gif",
+      "caption": "HAHA. Ich lache, damit niemand merkt, dass ich innerlich eine Walnuss bin."
+    },
+    "denk": {
+      "file": "gifs/denken.gif",
+      "caption": "Ich denke nach. Das dauert, meine Gedanken müssen erst durch die Schale."
+    }
+  }
+}
